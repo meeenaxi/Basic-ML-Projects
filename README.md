@@ -24,7 +24,7 @@ This repository contains my machine learning projects across various domains, in
 🔗 [LinkedIn](https://www.linkedin.com/in/meenakshi-iyer-a93041325/)
 
 
-🔗 [Kaggle](https://www.linkedin.com/in/meenakshi-iyer-a93041325/)
+🔗 [Kaggle](https://www.kaggle.com/meenakshihihihihi)
 
 
 ---
